@@ -1,0 +1,9 @@
+.vscode/
+
+Logs/
+Temp/
+Library/
+Assets/Settings
+Assets/Scenes/Sample
+Assets/Resources/FirstPersonController
+Assets/Scripts/Player Movements/FiirstPersonMove
